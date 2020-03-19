@@ -19,6 +19,7 @@
         ]
       }
     ],
+    "prettier/prettier": "error",
     "react/prop-types": 0,
     "no-extra-semi": 2,
     "no-underscore-dangle": 0,
