@@ -2,7 +2,7 @@
   "npm-intellisense.packageSubfoldersIntellisense": true,
   "npm-intellisense.scanDevDependencies": true,
   "editor.formatOnSave": false,
-  "eslint.lintTask.enable": false,
+  "eslint.lintTask.enable": true,
   "eslint.debug": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
