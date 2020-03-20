@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint --fix ."
   },
   "repository": {
     "url": "https://github.com/baconcheese113/god-help-me-lint"
@@ -21,7 +21,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.2",
     "eslint-plugin-react": "^7.19.0",
-    "eslint-plugin-react-hooks": "^2.5.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
     "prettier": "^1.19.1"
   }
 }
